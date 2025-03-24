@@ -130,13 +130,13 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="767.4067462135431" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="767.4067462135431" y="0" width="124.77727564263611" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="892.1840218561792" y="0" width="16.49090294670241" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="908.6749248028816" y="0" width="8.9335260428828" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="917.6084508457643" y="0" width="1.719223368692974" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="919.3276742144573" y="0" width="0.518463564988734" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="919.846137779446" y="0" width="0.15386222055391188" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="767.3734807293878" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="767.3734807293878" y="0" width="124.77186680761307" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="892.1453475370009" y="0" width="16.4901881004056" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="908.6355356374065" y="0" width="8.933138793134871" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="917.5686744305414" y="0" width="1.7590289278385252" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="919.32770335838" y="0" width="0.518441090673006" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="919.8461444490529" y="0" width="0.15385555094710274" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -446,6 +446,27 @@
                                     <div class="content">
                                         <div class="user">github-actions[bot]</div>
                                         pushed 1 commit in
+                                        <span class="repo">Bracketed/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9cde92e</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
                                         <span class="repo">Bracketed/Workflows</span>
                                     </div>
                                 </div>
@@ -521,27 +542,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">Bracketed/Workflows</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#24766ec</div>
-                                        <div class="message">Update README.md from Publish Container - ninjaninja140 24/03/2025</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -564,7 +564,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 24 Mar 2025, 18:15:30 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2025, 19:08:55 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
