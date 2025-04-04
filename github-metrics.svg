@@ -130,26 +130,26 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="767.3751817353146" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="767.3751817353146" y="0" width="124.77010405739868" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="892.1452857927133" y="0" width="16.490224653542235" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="908.6355104462555" y="0" width="8.933158594864294" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="917.5686690411198" y="0" width="1.7590328270071915" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="919.327701868127" y="0" width="0.5184422398805171" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="919.8461441080075" y="0" width="0.1538558919925136" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="546.71499594043" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="546.71499594043" y="0" width="250.60639966188785" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="797.3213956023178" y="0" width="72.08888790025692" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="869.4102835025748" y="0" width="40.339980647529224" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="909.7502641501039" y="0" width="7.213800313643491" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="916.9640644637475" y="0" width="2.3411595911512495" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="919.3052240548988" y="0" width="0.6947759451012668" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Lua
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Lua
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -452,6 +452,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#be28f13</div>
+                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <div class="user">github-actions[bot]</div>
+                                        pushed 1 commit in
+                                        <span class="repo">Bracketed/.github</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#39253de</div>
                                         <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
                                     </div>
@@ -521,27 +542,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <div class="user">github-actions[bot]</div>
-                                        pushed 1 commit in
-                                        <span class="repo">Bracketed/.github</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8273087</div>
-                                        <div class="message">Update github-metrics.svg - [Skip GitHub Action]</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -564,7 +564,7 @@
                 </div>
             </section>
             <footer>
-                <span>Last updated 4 Apr 2025, 16:11:35 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Apr 2025, 17:13:16 (timezone Europe/London) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
