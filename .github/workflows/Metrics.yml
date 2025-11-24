@@ -39,6 +39,8 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          plugin_stargazers: no
+          plugin_traffic: no
           plugin_code: yes
           plugin_code_days: 3
           plugin_code_lines: 12
@@ -62,5 +64,5 @@ jobs:
           plugin_people_size: 28
           plugin_people_types: followers, following
           plugin_repositories: yes
-          plugin_repositories_featured: jova.js, node-logger, Bracketed-Packages, proxy
+          plugin_repositories_featured: jova.js, Workflows, node-logger, rbxio.js
           plugin_repositories_order: featured, pinned, starred, random
